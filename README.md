@@ -9,4 +9,5 @@ Edit these lines:
 * `line 31`: put your song titles using the same JSON filenames
 * `line 74`: edit `/lyrics/` entering JSON files path
 
-The JSON filenames have to be lowercase, see `line 71`. You can use HTTPS endpoint just editing lines `27` and `28`.
+The JSON filenames have to be lowercase, see `line 71`. You can use HTTPS endpoint just editing lines `27` and `28`.</br>
+**JSON formatting**: `{"lyrics":"Your lyrics\nhere"}`
